@@ -10,4 +10,4 @@
 ### To run locally. 
 
 - run `go run main.go`
-- localhost:8080/ should return `"homepage endpoint Hit"`
+- `localhost:8080/` should return `"homepage endpoint Hit"`
